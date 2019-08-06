@@ -1,0 +1,49 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color:#f1f2f6;
+
+}
+.conatiner
+{
+	width:80%;
+	margin: auto;
+	padding: auto;
+}
+
+.heading
+{
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 27px;
+	font-weight: normal;
+	color:#2d3436;
+	word-spacing: 5px;
+	margin-bottom: 70px;
+}
+.box1
+{
+	border: 2px #2ed573 solid;
+	background-color: #2ed573;
+	padding: 20px;
+	margin-left:33%;
+	margin-right: 33%;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	font-family:Arial, Helvetica, sans-serif; 
+
+
+}
+.box1 a
+{
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+	
+
+	
+}
+.box1 a:hover{
+	font-size: 35px;
+}
