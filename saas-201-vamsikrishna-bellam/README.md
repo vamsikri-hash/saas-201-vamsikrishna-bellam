@@ -6,4 +6,5 @@
 - Level-03 -> Client side validation using js
 - Level-04 -> Introduction to Backend(http verbs)
 - Level-05 ->Introduction to Rails Models
-- Level-06 ->Introduction to Rails controllers and views 
+- Level-06 ->Introduction to Rails controllers and views
+- Level-07 ->Backend validations and callbacks
