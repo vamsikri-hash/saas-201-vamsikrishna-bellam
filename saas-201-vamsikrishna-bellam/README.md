@@ -1,5 +1,5 @@
 ## The Milestone targets are in this Folder
-#### There are 6 levels as of now
+#### There are 7 levels as of now
 
 - Level-01 -> Basics of ruby
 - Level-02 -> HTML and CSS
