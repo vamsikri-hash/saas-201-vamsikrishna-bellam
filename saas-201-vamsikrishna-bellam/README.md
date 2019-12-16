@@ -8,3 +8,5 @@
 - Level-05 ->Introduction to Rails Models
 - Level-06 ->Introduction to Rails controllers and views
 - Level-07 ->Backend validations and callbacks
+- Level-08 ->sessions and authentication
+- Level-09 ->Deployment to heroku. 
